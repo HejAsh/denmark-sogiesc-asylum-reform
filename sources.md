@@ -56,7 +56,7 @@ All sources cited in the Medium article and fact-check note. Listed by category.
 
 ## Academic Research
 
-16. Hertz, M.E. and Jarlner, A.S.S. (2025). "Trans 'enough' for protection? Experimenting with credibility in refugee status determination." *Frontiers in Human Dynamics*, Vol. 7. DOI: 10.3389/fhumd.2025.1625988. University of Copenhagen, MOBILE Center of Excellence for Global Mobility Law.
+16. [Hertz, M.E. and Jarlner, A.S.S. (2025). "Trans 'enough' for protection? Experimenting with credibility in refugee status determination." *Frontiers in Human Dynamics*, Vol. 7. DOI: 10.3389/fhumd.2025.1625988. University of Copenhagen, MOBILE Center of Excellence for Global Mobility Law.](https://curis.ku.dk/ws/portalfiles/portal/531731857/fhumd-7-1625988_1_.pdf)
 
 ---
 
