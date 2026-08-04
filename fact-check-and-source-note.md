@@ -38,23 +38,6 @@ The article argues that narrative expectations about an applicant's "inner recog
 
 The article argues for enforceable SOGIESC procedural and transfer safeguards, binding public credibility rules, independent decision audits, specialist training and anonymised reporting. These are policy proposals, not descriptions of law already in force.
 
-## Claims that must not be published
-
-Do not state that Mette Frederiksen personally directs the Danish Immigration Service (Udlændingestyrelsen) or Refugee Appeals Board (Flygtningenævnet) to reject LGBTQIA+ applicants.
-
-Do not state that the government intends to discriminate against LGBTQIA+ asylum seekers unless direct evidence of that intention is obtained.
-
-Do not claim that every rejected LGBTQIA+ applicant should have received asylum. Refugee status requires an individual assessment of the facts, future risk and available protection.
-
-Do not call a published decision illegal or biased without reviewing the complete record and obtaining qualified legal analysis.
-
-Do not say that asylum reform will add a fixed number of Rainbow Map points. ILGA-Europe has not assigned the proposal such a value.
-
-Do not say the government's policy is "zero refugees" or even an unqualified promise of "zero asylum seekers." The documented formulation is a vision of zero spontaneous asylum applicants, combined with controlled resettlement and help in nearby regions.
-
-Do not describe the 2021 third-country law as proof that transfers became operational or as automatically unlawful. Distinguish political objective, enabling law, agreement, implementation and individual transfer decisions.
-
-Do not revive the earlier unsupported claims about a 2026 score of 80%, fourth place, an 11-point gap, six scoring reforms, a University of Copenhagen study by "Hertz & Jarlner (2025)," or attributed organisational approval that cannot be documented.
 
 ## Terminology
 
