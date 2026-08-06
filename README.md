@@ -2,7 +2,7 @@
 
 This repository contains the source documentation, fact-check note, and primary source index for the public policy campaign:
 
-**"Equality cannot stop at the border"**
+**"Equality cannot stop at Denmark's border"**
 
 The campaign calls on the Danish government and Parliament to introduce enforceable SOGIESC (sexual orientation, gender identity, gender expression and sex characteristics) procedural safeguards into Danish asylum law and third-country-transfer legislation.
 
