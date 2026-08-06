@@ -1,4 +1,4 @@
-# Denmark SOGIESC Asylum Reform — Public Policy Documentation
+# Denmark SOGIESC Asylum Reform â€” Public Policy Documentation
 
 This repository contains the source documentation, fact-check note, and primary source index for the public policy campaign:
 
@@ -49,11 +49,11 @@ This is a public policy resource. It does not concern any individual asylum case
 
 ## Status
 
-- [ ] Fact-check note — published
-- [x] Medium article � published
+- [ ] Fact-check note - published
+- [x] Medium article — published
 - [ ] Right-of-reply sent to Ministry of Immigration and Integration
-- [ ] Civil society validation — in progress
-- [ ] Parliamentary submission — pending
+- [ ] Civil society validation â€” in progress
+- [ ] Parliamentary submission â€” pending
 
 ---
 
