@@ -21,8 +21,8 @@ The campaign calls on the Danish government and Parliament to introduce enforcea
 
 The public-facing article is published on Medium:
 
-> **Mette Frederiksen's hard-line asylum politics have an LGBTQIA+ blind spot**
-> [Link to be added on publication]
+> **Mette Frederiksen's asylum policy has an LGBTQIA+ blind spot**
+> https://medium.com/@hej.ash/mette-frederiksens-asylum-policy-has-an-lgbtqia-blind-spot-c302e6021d08
 
 The fact-check note in this repository is the companion document to that article. It documents what is proven, what is advocacy inference, and what must not be claimed.
 
@@ -50,7 +50,7 @@ This is a public policy resource. It does not concern any individual asylum case
 ## Status
 
 - [ ] Fact-check note — published
-- [ ] Medium article — pending publication
+- [x] Medium article � published
 - [ ] Right-of-reply sent to Ministry of Immigration and Integration
 - [ ] Civil society validation — in progress
 - [ ] Parliamentary submission — pending

@@ -2,7 +2,7 @@
 
 ## Publication purpose
 
-This note supports the article "Mette Frederiksen's hard-line asylum politics have an LGBTQIA+ blind spot." The article is a nationwide public-policy argument about Danish law, asylum administration and political accountability. It is not connected to the author's asylum case or any other individual proceeding.
+This note supports the article "Mette Frederiksen's asylum policy has an LGBTQIA+ blind spot." The article is a nationwide public-policy argument about Danish law, asylum administration and political accountability. It is not connected to the author's asylum case or any other individual proceeding.
 
 ## Central thesis
 
