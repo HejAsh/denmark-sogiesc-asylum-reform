@@ -1,4 +1,4 @@
-# Denmark SOGIESC Asylum Reform â€” Public Policy Documentation
+# Denmark SOGIESC Asylum Reform - Public Policy Documentation
 
 This repository contains the source documentation, fact-check note, and primary source index for the public policy campaign:
 
