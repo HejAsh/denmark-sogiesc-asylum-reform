@@ -50,10 +50,10 @@ This is a public policy resource. It does not concern any individual asylum case
 ## Status
 
 - [ ] Fact-check note - published
-- [x] Medium article — published
+- [x] Medium article - published
 - [ ] Right-of-reply sent to Ministry of Immigration and Integration
-- [ ] Civil society validation â€” in progress
-- [ ] Parliamentary submission â€” pending
+- [ ] Civil society validation - in progress
+- [ ] Parliamentary submission - pending
 
 ---
 
